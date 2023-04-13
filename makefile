@@ -1,0 +1,8 @@
+RABBIT_MQ_URI=amqp://rabbitmq:5672
+RABBIT_MQ_DATA_PROCESSOR_QUEUE=DATA_PROCESSOR
+REDIS_HOST=localhost
+REDIS_PORT=6379
+TWITTER_CONSUMER_KEY=<your consumer key>
+TWITTER_CONSUMER_SECRET=<your consumer secret>
+TWITTER_ACCESS_TOKEN_KEY=<your access token key>
+TWITTER_ACCESS_TOKEN_SECRET=<your access token secret>
